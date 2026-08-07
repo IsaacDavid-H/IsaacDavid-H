@@ -1,4 +1,4 @@
-# Hi,I'm Isaac 👋
+# Hi 👋,I'm Isaac
 
 ### A software development student from Colombia, learning Java & OOP on my way to becoming a software architect
 
